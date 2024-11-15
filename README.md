@@ -41,7 +41,5 @@ Machine learning workflows can get messy: different environments, numerous exper
 
 ## 📁 Repository Structure
 
-- **`/notebooks/`**: Hands-on Jupyter notebooks demonstrating MLflow Tracking, Projects, and Model Registry.
-- **`/src/`**: Sample ML projects integrated with MLflow, including hyperparameter tuning and model training.
-- **`/docs/`**: Detailed guides and tutorials for configuring MLflow with different frameworks (e.g., Scikit-learn, TensorFlow, PyTorch).
-- **`/examples/`**: End-to-end examples of machine learning workflows using MLflow in real-world scenarios.
+- **`/data/`**: raw data for loan status prediction problem whihc has been used throught out the project.
+- **`/Guide.docx/`**: Complete guide on mlflow functionality.
